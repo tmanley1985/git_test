@@ -4,3 +4,7 @@ Albus Dumbledore
 Severus Snape
 Draco Malfoy
 Hermione Granger
+Narcissa Malfoy
+Ron Weasley
+Luna Lovegood
+Rubeus Hagrid
