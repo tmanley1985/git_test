@@ -4,3 +4,12 @@ Albus Dumbledore
 Severus Snape
 Draco Malfoy
 Hermione Granger
+Narcissa Malfoy
+Ron Weasley
+Lucius Malfoy
+Tom Riddle
+Lord Voldemort
+James Potter
+Lily Potter
+Minerva McGonagall
+Rita Skeeter
